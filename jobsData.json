@@ -1,0 +1,307 @@
+[
+  {
+    "id": 14,
+    "Role": "SAP Order to Cash Team Member + Lead",
+    "Location": "Remote",
+    "Experience": "10+ years",
+    "Duration": "6 months",
+    "Posted": "1 hour ago",
+    "JobDescription": "Our client's Enterprise Performance professionals are leaders in optimizing operations that span the entire enterprise of an organization, from strategy to implementation and operation. By joining our team, you can help clients achieve impact and value from their investments in both people and technology that support enterprise-wide operations, as well as solutions for specific functions in the organization, from IT to finance and the supply chain.",
+    "Skills": [
+      "Responsible for requirements gathering, design, configuration, development support, testing, and deployment of end-to-end process",
+      "Apply accounting principles and multi-tiered system application standards",
+      "Grasp the interrelationships between financial management requirements and automation solutions.",
+      "Visa: H1B Higher Need Passport No Mandatory, GC & USC"
+    ],
+    "Country": "US"
+  },
+  {
+    "id": 13,
+    "Role": "Data Architect",
+    "Location": "Bloomington, IL",
+    "Experience": "15+ years",
+    "Duration": "Long-term",
+    "Posted": "1 hour ago",
+    "JobDescription": "We are looking for a Data Architect with 15+ years of experience in IT/Technology and at least 3+ years of experience in Azure/Databricks.",
+    "Skills": [
+      "Design and architect Databricks-based solutions that align with business objectives, ensuring scalability, performance, and security",
+      "Designed, Developed, and implemented Datamesh using DeltaLake",
+      "Provide technical leadership and guidance to the Databricks development team, ensuring best practices are followed throughout the project lifecycle",
+      "Collaborate with cloud infrastructure teams to design and optimize the underlying infrastructure for Databricks workloads on platforms such as AWS or Azure",
+      "Develop efficient data ingestion and ETL pipelines using Databricks, Apache Spark, and other relevant technologies",
+      "Integrate Databricks with data lakes and data warehouses to ensure seamless data access and analytics",
+      "Continuously monitor and optimize Databricks workloads for performance and cost-effectiveness",
+      "Implement and maintain security measures, including access controls, encryption, and compliance standards, to protect sensitive data",
+      "Create documentation and provide training to internal teams on Databricks best practices and usage",
+      "Stay up-to-date with the latest developments in Databricks and related technologies to recommend and implement improvements",
+      "Good knowledge of SQL Queries & Stored Procedures",
+      "Strong programming skills in Pyspark, Python, writing complex queries in T-SQL",
+      "Experience in transferring data from RDBMS to Data bricks using ADF",
+      "Expertise in using Spark SQL with various data sources like JSON, Parquet, and XML",
+      "Experience in creating tables, partitioning, bucketing, loading, and aggregating data using Spark SQL/Python",
+      "Experience with the Insurance Domain"
+    ],
+    "Country": "US"
+  },
+  {
+    "id": 12,
+    "Role": "AEM Architect with SME",
+    "Location": "Atlanta GA",
+    "Experience": "10+ years",
+    "Duration": "Long-term",
+    "Posted": "1 hour ago",
+    "JobDescription": "We are looking for an AEM Architect with a Subject Matter Expert(SME) who is ready for hybrid work (2-3 days onsite) in Atlanta GA.",
+    "Skills": [
+      "Experience as an architect/technical lead in the implementation of AEM, AEM SME( Subject Matter Expert)",
+      "Expertise in Microservices, API, Web Technologies, Java, Spring Boot.",
+      "Utilize tools such as Jira, Gitlab, AppDynamics, and Splunk for project management, monitoring, and troubleshooting.",
+      "Please note that this requirement also needs experience in angular and react.",
+      "Design, create, and test software that uses or is based on the Adobe Experience Manager. Assist in integrating AEM with the current setup to the organization's needs.",
+      "Collaborate with UX/UI designers and stakeholders to design and develop AEM components, templates, and workflows that meet project requirements.",
+      "Customize and extend AEM functionality using technologies like Java, HTL (HTML Template Language), and JavaScript. Integrate AEM with various third-party systems and platforms using APIs and other integration methods."
+    ],
+    "Country": "US"
+  },
+  {
+    "id": 11,
+    "Role": "Kinaxis Solution Architect",
+    "Location": "Remote (India)",
+    "Experience": "10+ years",
+    "Duration": "12 Months",
+    "Posted": "1 hour ago",
+    "JobDescription": "We are looking for a Kinaxis Solution Architect in the manufacturing domain, who can proficiently perform in Kinaxis implementation projects. Having any relevant supply chain certifications like CSCP and Rapid Response Solution Architect certification would be a plus. The rate will be competitive based on the Indian Market Rate.",
+    "JobDescPoints": [
+      "Perform the role of solution architect for Kinaxis implementation projects. Connect with client stakeholders to understand requirements, perform fit-gap analysis, design and document solutions and handle configuration team to execute the solution.",
+      "Connect with client business stakeholders. Coordinate with development functions, business lines, product teams, and technology stakeholders to determine the technology's future state and roadmap.",
+      "Create designs that balance business efficiency, system performance, security, and compliance while ensuring architectural and security standards."
+
+    ],
+    "Skills": [
+      "Minimum 10-15 years of experience in implementing Kinaxis and other related SCM software solutions in client environments.",
+      "Must have been a Solution Architect on at least two Kinaxis implementation projects.",
+      "Should have completed Rapid Response Author Level 2 certification.",
+      "Strong functional knowledge and experience in Rapid Response applications like Supply Planning, Capacity Planning (Constraints), DRP, MPS, Demand Planning, and Inventory Management.",
+      "Strong design and software setup skills are required, as well as a solid understanding of data models.",
+      "Must know about integrating Kinaxis with SAP, Oracle, and legacy systems.",
+      "Need to have implementation experience in establishing demand and supply planning modules.",
+      "Must be a strong collaborator, team player as well as individual contributor.",
+      "Should have strong communication skills with confidence in dealing with business stakeholders.",
+      "Strong problem-solving skills with the ability to lead and handle the team to push the solution and drive progress.",
+      "Open to travel - short/long-term."
+    ]
+  },
+  {
+    "id": 10,
+    "Role": "Project Manager",
+    "Location": "Remote (US)",
+    "Experience": "10+ years",
+    "Duration": "Long-Term",
+    "Posted": "2 hours ago",
+    "JobDescription": "Need Only USC, GC, and EADs. Seeking a Project Manager with hands-on experience in Agile projects within the IAM space. Responsibilities include collaborating with stakeholders, resolving technical issues, preparing status reports, and leading project teams in risk management and resolution. Effective communication, relationship-building, and leadership skills are essential for success in this role.",
+    "Skills": [
+      "PMP Certification.",
+      "Advanced skill in project management to include establishing and leading project teams; managing timelines/deadlines/resources; ensuring successful project implementation.",
+      "Experience in IT resource allocation and management.",
+      "Significant experience working and participating in cross-functional, multi-dimensional teams and projects.",
+      "Significant experience in managing multiple priorities independently and/or in a team environment to achieve goals.",
+      "Significant experience in collaborating across organizational boundaries and building partnerships across various functions.",
+      "Significant experience in leading, guiding, and coaching professional staff.",
+      "Advanced presentation skills to include polished executive presence.",
+      "Advanced knowledge of project lifecycles and development methodologies.",
+      "Advanced skills in MS Office Suite, ServiceNow, and Azure DevOps.",
+      "Advanced organizational, planning, and time management skills.",
+      "Advanced skill in building strategic and execution-focused plans and alliances with partner leadership."
+    ],
+    "Country": "US"
+  },
+  {
+    "id": 9,
+    "Role": "Lead Internal Control over Financial Reporting (ICFR) Analyst",
+    "shortRoleName": "Lead ICFR Analyst",
+    "Location": "Vienna, VA(Hybrid)",
+    "Experience": "10+ years",
+    "Duration": "Full Time",
+    "Posted": "2 hours ago",
+    "JobDescription": "Need USC, GC, and EADs. Ideal candidates should have the equivalent of a Big Four manager experience (Deloitte, EY, KPMG, PwC). They must have the appropriate level of knowledge across both Accounting/Business Process control and ITGCs as they will be expected to assist in both areas depending on need.",
+    "Skills": [
+      "Desired designation - Certified Public Accountant (CPA)",
+      "Desired designation - Certified Internal Auditor (CIA)",
+      "Desired designation - Certified Information Systems Auditor (CISA).",
+      "Bachelor's degree in accounting, or related field, or the equivalent combination of education, training, and experience.",
+      "Major experience that is consistent with what SOX 407 defines as \"expert\": Advanced understanding of SOX, including GAAP concepts, financial statement planning, and internal accounting controls.",
+      "To deliver internal control guidance, assess control effectiveness, and suggest improvements to control-related procedures within NFCU business processes, IT systems, and applications.",
+      "Research and implement new practices to achieve credit union control alignment with Section 404 of the Sarbanes Oxley Act (SOX) like environment.",
+      "Connect with key business partners regarding processes, key financial controls, and financial statement risks to lower the risk of financial misstatement.",
+      "Work with various business units to reduce risk through control-centric process implementation and automation.",
+      "In charge of collecting data, drafting reports, documenting and evaluating Internal Control Over Financial Reporting (ICFR), and creating evidence of control operational and design effectiveness to facilitate auditable evidence delivery to internal and external auditors.",
+      "Handle complex/unusual tasks of significant impact that require extensive analysis."
+    ],
+    "Country": "US"
+  },
+  {
+    "id": 8,
+    "Role": "Lead Generator",
+    "Location": "Hyderabad",
+    "Experience": "1+ years",
+    "Duration": "Full Time",
+    "Posted": "3 hours ago",
+    "JobDescription": "We are looking for a results-driven and proactive Lead Generator to join our team. The ideal candidate will be responsible for identifying and generating leads and will play a crucial role in expanding our customer base and increasing sales revenue.",
+    "Skills": [
+      "Research and identify potential leads within target markets and industries.",
+      "Qualify leads and schedule appointments for the sales team.",
+      "Stay up-to-date on industry trends and competitor activities to identify new opportunities for lead generation.",
+      "Meet or exceed monthly and quarterly lead generation targets.",
+      "Excellent communication and interpersonal skills.",
+      "Strong organizational and time management abilities.",
+      "Bachelor’s degree in marketing, business, or a related field preferred."
+    ]
+  },
+  {
+    "id": 7,
+    "Role": "Business Development Manager",
+    "Location": "Hyderabad",
+    "Experience": "10+ years",
+    "Duration": "Full Time",
+    "Posted": "3 hours ago",
+    "JobDescription": "We are seeking an experienced IT and Non-IT Business Development Manager to join our organization. The chosen candidate will identify new business opportunities, build and maintain strong client relationships, and drive growth.",
+    "Skills": [
+      "Bachelor’s degree in Business Administration, Marketing, or related field.",
+      "Proven track record of success in IT and non-IT business development, sales, or a related role.",
+      "Excellent communication and interpersonal skills, with the ability to build rapport and trust with clients.",
+      "Identify and develop new business opportunities through strategic prospecting and networking.",
+      "Build and maintain strong relationships with clients, understanding their needs and providing apt solutions.",
+      "Develop and implement sales strategies to achieve business objectives and targets.",
+      "Stay updated on industry trends, market conditions, and competitor activities.",
+      "Prepare and deliver presentations, proposals, and sales contracts.",
+      "Continuously assess and improve sales processes and procedures."
+    ]
+  },
+  {
+    "id": 6,
+    "Role": "GitHub Engineer",
+    "Location": "100% Remote",
+    "Experience": "5-10 Years",
+    "Duration": "2+ Years Project",
+    "Posted": "3 hours ago",
+    "JobDescription": "We're seeking a skilled GitHub Platform Engineer to manage and optimize our GitHub environment. As a key team member, you'll administer repositories, collaborate with stakeholders, and ensure seamless integration with other platforms.",
+    "Skills": [
+      "GitHub Foundation Setup",
+      "GitHub template Builds, testing and validation.",
+      "Create Repository Governance Model, user creation, role assignment, access provisioning, and rei Create Security Governance Model, code scanning analysis, vulnerabilities identification.",
+      "Collaborate with the app team to resolve critical, medium security issues.",
+      "Create Manage and Maintain Platform Audit Standards and reports.",
+      "Creation of IaC Code Standard Template for AWS and Azure Services.",
+      "Building Application Code templates to be used across multiple projects.",
+      "Incorporate DevSecOps Standards and Practices in GitHub Platform.",
+      "Should have good communication skills and solid understanding of AWS/Azure cloud.",
+      "Resource should have hands-on practical experience at the enterprise level."
+    ],
+    "JobStatus": "closed"
+  },
+  {
+    "id": 5,
+    "Role": "Senior Automation Test Engineer",
+    "Location": "Navi Mumbai",
+    "Experience": "4+ Years",
+    "Duration": "Full Time",
+    "Posted": "4 hours ago",
+    "JobDescription": "We are looking for a Senior Automation Test Engineer who will be a key contributor to our Test Automation efforts, utilizing their expertise in Appium and Selenium Testing. The candidate should be able to set, execute, and integrate the automation framework. Should know about project management and effort planning.",
+    "Skills": [
+      "Min. 4 years of experience in Selenium for Web automation testing.",
+      "Min. 2 years of experience in Appium Mobile automation testing.",
+      "Expert in core Java concepts and coding standards.",
+      "Good exposure to page object model Good exposure to automation script development.",
+      "Good exposure to automation frameworks.",
+      "Knowledge of DevOps and code repositories.",
+      "Knowledge of Maven and Testing frameworks"
+    ]
+  },
+  {
+    "id": 4,
+    "Role": "Tandem Developer",
+    "Location": "100% Remote",
+    "Experience": "5-10 Years",
+    "Duration": "2+ Years Project",
+    "Posted": "4 hours ago",
+    "JobDescription": "We are seeking a skilled Tandem Developer with expertise in C++ programming and experience with HP NonStop/Tandem systems. The ideal candidate will have a strong understanding of C++ language specifications, memory management, and standard library usage. They will develop and maintain software solutions on the Tandem platform, implement automated testing, and ensure code quality through unit tests and continuous integration.",
+    "Skills": [
+      "Strong proficiency in C++, with fair knowledge of the language specification",
+      "Good Experience in HP Nonstop/ Tandem",
+      "Thorough knowledge of the standard library, STL containers, and algorithms",
+      "Good understanding of memory management in non-garbage-collected environments",
+      "Understanding of dynamic polymorphism and C++-specific notions, such as friend classes",
+      "Familiarity with templating in C++",
+      "Knowledge of the latest C++11 standard is appreciated",
+      "Knowledge of low-level threading primitives and real-time environments",
+      "Implementation of automated testing platforms and unit tests",
+      "Proficient understanding of code versioning tools",
+      "Familiarity with continuous integration"
+    ],
+    "JobStatus": "closed"
+  },
+  {
+    "id": 3,
+    "Role": "Senior Test Engineer",
+    "Location": "Juinagar, Navi Mumbai",
+    "Experience": "3-6 Years",
+    "Duration": "Full Time (Onsite)",
+    "Posted": "4 hours ago",
+    "JobDescription": "We are looking for Senior Test Engineers who have hands-on experience in the banking domain, especially in the Cash Management module with Indian Banks.",
+    "Skills": [
+      "Cash Management (H2H, RCP, Liquidity Management, Virtual Accounts, etc.)",
+      "Good understanding of the internet and mobile banking digital channels",
+      "Candidate should have experience in digital journeys for cash management (payments, collections, deposits)",
+      "Good understanding of Software Test Life Cycle Management",
+      "Should have good oral and written skills.",
+      "Experience in Manual testing, Functional testing, UAT testing",
+      "Experience in writing and executing test plan, test cases and finding the bugs.",
+      "Good to have - understanding of project management tool like JIRA"
+    ]
+  },
+  {
+    "id": 2,
+    "Role": "Associate Test Lead",
+    "Location": "Mumbai",
+    "Experience": "6+ Years",
+    "Duration": "Full Time (Onsite)",
+    "Posted": "5 hours ago",
+    "JobDescription": "Seeking a candidate skilled in project management, platform architecture, and network configuration. Must excel in requirement gathering, project planning, platform installation, and APM tool configuration. Capable of monitoring applications, validating alerts, and gathering customer feedback for improvement. Proficient in identifying blind spots and optimizing application performance.",
+    "Skills": [
+      "6-8 years of experience",
+      "Should have knowledge in Katalon, Selenium & Java.",
+      "Automation Feasibility Analysis",
+      "Automation suite creation",
+      "Publishing Automation Statistics",
+      "Review of Automation Scripts",
+      "Manage Work allocation for the Automation Team",
+      "Provide Technical support and Guidance to Automation Team"
+    ]
+  },
+  {
+    "id": 1,
+    "Role": "Test Manager",
+    "Location": "Multiple Locations",
+    "Experience": "10+ Years",
+    "Duration": "Full Time",
+    "Posted": "5 hours ago",
+    "JobDescription": "We are looking for Test Managers who have knowledge in Corporate and retail IB, Design and Execution, Test Execution, and defect reporting. Has working Experience on other LMS, LOS, loans, lending, retail or corporate banking.",
+    "Skills": [
+      "Resource with a good understanding of wallet testing.",
+      "Understands compatibility testing, Usability testing, client interaction, Daily status calls, design and execution, and defect reporting.",
+      "Good in Team management.",
+      "Should have experience in people management and stakeholders.",
+      "Should be able to prepare test plan and test execution details.",
+      "Should have experience in Test estimation and Test planning",
+      "Should have experience in Regression, Sanity Testing",
+      "Need to have strong reporting skills",
+      "Should have strong communication skills verbal as well as written",
+      "Should be well versed with Test management tools like Jira - X-Ray.",
+      "Will be responsible for Test governance including preparation of Daily status reports, Weekly Status Reports, and Monthly Status Reports.",
+      "Good understanding and experience in automation would be a plus point.",
+      "Should have exposure to client interaction",
+      "Should be very flexible to work on weekends and late hours",
+      "Ready to work at client location",
+      "Responsible for Timesheet billing and invoicing."
+    ]
+  }
+]
